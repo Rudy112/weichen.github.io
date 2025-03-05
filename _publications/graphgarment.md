@@ -3,14 +3,13 @@ title: " GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation
 collection: publications
 permalink: /publication/graphgarment
 excerpt: '**Wei Chen**, Kelin Li, Dongmyoung Lee, Xiaoshuai Chen, Rui Zong and Petar Kormushev'
-date: 2023-12-10
+date: 2025-3-1
 venue: ''
 
 ---
 
 
 
-![graphgarment](https://github.com/Rudy112/weichen.github.io/assets/55579633/1cc7af47-327b-4423-96dc-3b5bcb081dac)
 
 
 
