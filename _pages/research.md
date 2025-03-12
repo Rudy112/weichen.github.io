@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Research"
-collection: Research
-permalink: /Research/
+collection: research
+permalink: /research/
 author_profile: false
 ---
 
