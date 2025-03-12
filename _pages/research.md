@@ -13,26 +13,7 @@ My research interests include robotics, robot manipulation, perception for grasp
 Cloth Manipulation
 ======
 
-<div style="text-align: center;">
-  <img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/1cc7af47-327b-4423-96dc-3b5bcb081dac" alt="garment_hang" style="width:300px; height:200px; object-fit: cover;">
-  <br>
-  Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/932fecf2-d5ff-471f-91b1-2f6787124273" alt="trial1_b 00_00_00-00_00_30" style="width:300px; height:200px; object-fit: cover;">
-  <br>
-  GOG: A Versatile GripperOnGripper Design for Bimanual Cloth Manipulation with A Single Robotic Arm
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/470ecae9-c57f-484b-a641-5c7259d57f4b" alt="Trakdis" style="width:300px; height:200px; object-fit: cover;">
-  <br>
-  TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation
-</div>
-
-<div style="text-align: center;">
-  <img src="https://github.com/Rudy112/weichen.github.io/blob/new/images/real_predict_demo.gif?raw=true" alt="real_predict_demo" style="width:300px; height:200px; object-fit: cover;">
-  <br>
-  GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks
-</div>
+<img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/1cc7af47-327b-4423-96dc-3b5bcb081dac" alt="garment_hang" style="width:300px; height:200px;">
+<img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/932fecf2-d5ff-471f-91b1-2f6787124273" alt="trial1_b 00_00_00-00_00_30" style="width:300px; height:200px;">
+<img src="https://github.com/Rudy112/weichen.github.io/assets/55579633/470ecae9-c57f-484b-a641-5c7259d57f4b" alt="Trakdis" style="width:300px; height:200px;">
+<img src="https://github.com/Rudy112/weichen.github.io/blob/new/images/real_predict_demo.gif?raw=true" alt="real_predict_demo" style="width:300px; height:200px;">
