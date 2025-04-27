@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year PhD student from [Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/), [Imperial College London](https://www.imperial.ac.uk). My research interests include robotics, robot manipulation, perception for grasping and manipulation, and learning-based control. Specifically, I am focusing on developing and applying advanced methods for solving **real-world** robot manipulation problems with **data-efficient** approaches. I am very fortunate to be advised by Dr Petar Kormushev of [Robot Intelligence Lab]([https://www.imperial.ac.uk/reds-lab/](http://www.imperial.ac.uk/robot-intelligence/)), Dr Nicolas Rojas of [REDS Lab](https://www.imperial.ac.uk/reds-lab/).
+I am a **final‑year PhD candidate** in the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)**. My research sits at the intersection of:
 
-🚨 **I am actively seeking research-oriented internships for the summer of 2025.**  Please feel free to reach out if you believe I am a good candidate.
+- **Robot Manipulation**
+- **Perception for grasping and manipulation**
+- **Learning‑based control**
 
+I develop **data‑efficient methods** that close the gap between laboratory algorithms and **real‑world robot‑manipulation tasks**.
 
-Feel free to contact me via [Email](w.chen21@imperial.ac.uk) / [Github](https://github.com/Rudy112) / [Wechat](../images/wechat.jpg)!
+I am fortunate to be supervised by **Dr Petar Kormushev** of the [Robot Intelligence Lab](http://www.imperial.ac.uk/robot-intelligence/) and **Dr Nicolas Rojas** of the (Previously, [REDS Lab](https://www.imperial.ac.uk/reds-lab/)). Alongside my doctoral work, I am a **Research Intern at Huawei UK R&D (London)**, where I translate academic advances into industrial-scale solutions.
+
+I am always keen to discuss collaborations, internships, or post‑doctoral opportunities. **Feel free to reach out if our research interests align.**
+
 
 
 
