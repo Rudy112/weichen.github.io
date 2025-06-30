@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **final‑year PhD candidate** in the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)**. My research sits at the intersection of:
+I am a final‑year PhD candidate in the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)**. My research sits at the intersection of:
 
-  - **Robot Manipulation**
-  - **Perception for Grasping and Manipulation**
-  - **Learning‑based Control**
+  - Robot Manipulation
+  - Perception for Grasping and Manipulation
+  - Learning‑based Control
 
 I develop **data‑efficient methods** that close the gap between laboratory algorithms and **real‑world robot‑manipulation tasks**.
 
