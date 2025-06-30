@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/graphgarment
 excerpt: '**Wei Chen**, Kelin Li, Dongmyoung Lee, Xiaoshuai Chen, Rui Zong and Petar Kormushev'
 date: 2025-3-1
-venue: 'The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)'
+venue: 'The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)'
 
 ---
 
