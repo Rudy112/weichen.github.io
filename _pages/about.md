@@ -166,7 +166,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="/images/real_predict_demo.gif" alt="GraphGarment">
+    <img src="{{ site.baseurl }}/images/real_predict_demo.gif" alt="GraphGarment">
   </div>
   <div class="project-info">
     <h3>GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks</h3>
@@ -181,7 +181,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="/images/trial1_b 00_00_00-00_00_30.gif" alt="G.O.G">
+    <img src="{{ site.baseurl }}/images/gog_demo.gif" alt="G.O.G">
   </div>
   <div class="project-info">
     <h3>G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation</h3>
@@ -196,7 +196,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="/images/Trakdis.gif" alt="TraKDis">
+    <img src="{{ site.baseurl }}/images/Trakdis.gif" alt="TraKDis">
   </div>
   <div class="project-info">
     <h3>TraKDis: Transformer-based Knowledge Distillation for Visual Reinforcement Learning</h3>
@@ -211,7 +211,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="/images/garment_hang.gif" alt="Garment Hanging">
+    <img src="{{ site.baseurl }}/images/garment_hang.gif" alt="Garment Hanging">
   </div>
   <div class="project-info">
     <h3>Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks</h3>
@@ -227,7 +227,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="/images/data_collection.gif" alt="Synthetic Data">
+    <img src="{{ site.baseurl }}/images/data_collection.gif" alt="Synthetic Data">
   </div>
   <div class="project-info">
     <h3>Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping</h3>
