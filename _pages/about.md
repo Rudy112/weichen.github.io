@@ -146,7 +146,7 @@ I am a final‑year PhD candidate in the **[Dyson School of Design Engineering](
 - **Learning‑based Control** for Deformable Objects
 - **Cloth/Garment Manipulation**
 
-I develop data‑efficient methods that bridge laboratory algorithms to real‑world robot tasks. I am supervised by [Dr Petar Kormushev](http://www.imperial.ac.uk/robot-intelligence/) and [Dr Nicolas Rojas](https://www.imperial.ac.uk/reds-lab/). I am also a **Research Intern at Huawei UK R&D**.
+I develop data‑efficient methods that bridge laboratory algorithms to real‑world robot tasks. I am supervised by [Dr Petar Kormushev](http://www.imperial.ac.uk/robot-intelligence/) and [Dr Nicolas Rojas](https://www.imperial.ac.uk/reds-lab/).
 
 ---
 
