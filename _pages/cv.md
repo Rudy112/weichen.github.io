@@ -119,15 +119,15 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-  <div class="title">G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm</div>
-  <div class="venue">IEEE Robotics and Automation Letters, 2024</div>
-  <div class="authors">Dongmyoung Lee*, <strong>Wei Chen*</strong>, Xiaoshuai Chen, Nicolas Rojas</div>
+  <div class="title">TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation</div>
+  <div class="venue">IEEE Robotics and Automation Letters (RA-L), 2024</div>
+  <div class="authors"><strong>Wei Chen</strong>, Nicolas Rojas</div>
 </div>
 
 <div class="pub-item">
-  <div class="title">TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning</div>
-  <div class="venue">IEEE Robotics and Automation Letters, 2024</div>
-  <div class="authors"><strong>Wei Chen</strong>, Nicolas Rojas</div>
+  <div class="title">G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm</div>
+  <div class="venue">IEEE Robotics and Automation Letters (RA-L), 2024</div>
+  <div class="authors">Dongmyoung Lee*, <strong>Wei Chen*</strong>, Xiaoshuai Chen, Nicolas Rojas (* equal contribution)</div>
 </div>
 
 <div class="pub-item">
@@ -137,9 +137,38 @@ redirect_from:
 </div>
 
 <div class="pub-item">
+  <div class="title">Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR</div>
+  <div class="venue">IROS 2025</div>
+  <div class="authors">Kelin Li, Shubhan M Wagh, Nikhil Sharma, Sarthak Bhadani, <strong>Wei Chen</strong>, Chuanyu Liu, Petar Kormushev</div>
+</div>
+
+<div class="pub-item">
+  <div class="title">A Backbone for Long-Horizon Robot Task Understanding</div>
+  <div class="venue">IEEE Robotics and Automation Letters (RA-L), 2025</div>
+  <div class="authors">Xiaoshuai Chen, <strong>Wei Chen</strong>, Dongmyoung Lee, Yukun Ge, Nicolas Rojas, Petar Kormushev</div>
+</div>
+
+<div class="pub-item">
+  <div class="title">Extended Hybrid Zero Dynamics for Bipedal Walking of the Knee-less Robot SLIDER</div>
+  <div class="venue">CLAWAR 2025</div>
+  <div class="authors">Rui Zong, Mingfeng Liang, Yuhan Fang, Kelin Wang, Xiaoshuai Chen, <strong>Wei Chen</strong>, Petar Kormushev</div>
+</div>
+
+<div class="pub-item">
   <div class="title">Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping in Clutter</div>
   <div class="venue">ICMRE 2024</div>
   <div class="authors">Dongmyoung Lee, <strong>Wei Chen</strong>, Nicolas Rojas</div>
+</div>
+
+</div>
+
+<div class="cv-section">
+<h2>Under Review</h2>
+
+<div class="pub-item">
+  <div class="title">GraphGarment: Data-efficient Learning of Garment Dynamics from Minimal Real-world Data</div>
+  <div class="venue">Under Review - Advanced Intelligent Systems</div>
+  <div class="authors"><strong>Wei Chen</strong>, Kelin Li, Dongmyoung Lee, Xiaoshuai Chen, Rui Zong, Petar Kormushev</div>
 </div>
 
 </div>
