@@ -229,6 +229,21 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
+    <img src="{{ site.baseurl }}/images/haptic_act.gif" alt="Haptic-ACT">
+  </div>
+  <div class="project-info">
+    <h3>Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR</h3>
+    <div class="project-venue">IROS 2025</div>
+    <div class="project-authors">Kelin Li, Shubhan M Wagh, Nikhil Sharma, Sarthak Bhadani, <strong>Wei Chen</strong>, Chuanyu Liu, Petar Kormushev</div>
+    <div class="project-links">
+      <a href="https://arxiv.org/abs/2501.02248" target="_blank">Paper</a>
+      <a href="https://sites.google.com/view/haptic-act" target="_blank">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-img">
     <img src="{{ site.baseurl }}/images/ICMRE.jpg" alt="Synthetic Data">
   </div>
   <div class="project-info">
