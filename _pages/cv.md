@@ -79,17 +79,18 @@ redirect_from:
 <div class="cv-item">
   <div class="cv-year">2021 - Present</div>
   <div class="cv-content">
-    <h3>Ph.D. in Design Engineering</h3>
+    <h3>Ph.D. in Robotics</h3>
     <div class="institution">Imperial College London, UK</div>
-    <div class="description">Supervisors: Dr Petar Kormushev & Dr Nicolas Rojas<br>Research: Robot Manipulation, Learning-based Control, Cloth Manipulation</div>
+    <div class="description">Advisor: Dr. Petar Kormushev</div>
   </div>
 </div>
 
 <div class="cv-item">
   <div class="cv-year">2019 - 2020</div>
   <div class="cv-content">
-    <h3>M.Sc. in Computing (Artificial Intelligence & Machine Learning)</h3>
-    <div class="institution">Imperial College London, UK</div>
+    <h3>M.S. in Robotics</h3>
+    <div class="institution">King's College London, UK</div>
+    <div class="description">Grades: 79, Distinction</div>
   </div>
 </div>
 
@@ -99,11 +100,10 @@ redirect_from:
 <h2>Work Experience</h2>
 
 <div class="cv-item">
-  <div class="cv-year">2024 - Present</div>
+  <div class="cv-year">Apr 2025 - Present</div>
   <div class="cv-content">
-    <h3>Research Intern</h3>
-    <div class="institution">Huawei UK R&D, London</div>
-    <div class="description">Translating academic advances into industrial-scale robotics solutions</div>
+    <h3>Robotics and AI Team</h3>
+    <div class="institution">Huawei London Research and Design Center, London, UK</div>
   </div>
 </div>
 
