@@ -229,7 +229,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="{{ site.baseurl }}/images/data_collection.gif" alt="Synthetic Data">
+    <img src="{{ site.baseurl }}/images/ICMRE.jpg" alt="Synthetic Data">
   </div>
   <div class="project-info">
     <h3>Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping</h3>
@@ -237,6 +237,20 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
     <div class="project-authors">Dongmyoung Lee, <strong>Wei Chen</strong>, Nicolas Rojas</div>
     <div class="project-links">
       <a href="https://arxiv.org/pdf/2401.13405.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-img">
+    <img src="{{ site.baseurl }}/images/therbligs_backbone.gif" alt="Therbligs">
+  </div>
+  <div class="project-info">
+    <h3>A Backbone for Long-Horizon Robot Task Understanding</h3>
+    <div class="project-venue">IEEE RA-L 2025</div>
+    <div class="project-authors">Xiaoshuai Chen, <strong>Wei Chen</strong>, Dongmyoung Lee, Yukun Ge, Nicolas Rojas, Petar Kormushev</div>
+    <div class="project-links">
+      <a href="https://ieeexplore.ieee.org/document/10820869" target="_blank">Paper</a>
     </div>
   </div>
 </div>
