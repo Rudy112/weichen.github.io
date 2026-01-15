@@ -100,7 +100,7 @@ redirect_from:
 <h2>Work Experience</h2>
 
 <div class="cv-item">
-  <div class="cv-year">Apr 2025 - Present</div>
+  <div class="cv-year">Apr 2025 - Sep 2025</div>
   <div class="cv-content">
     <h3>Robotics and AI Team</h3>
     <div class="institution">Huawei London Research and Design Center, London, UK</div>
