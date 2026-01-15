@@ -148,6 +148,8 @@ I am a final‑year PhD candidate in the **[Dyson School of Design Engineering](
 
 I develop data‑efficient methods that bridge laboratory algorithms to real‑world robot tasks. I am supervised by [Dr Petar Kormushev](http://www.imperial.ac.uk/robot-intelligence/) and [Dr Nicolas Rojas](https://www.imperial.ac.uk/reds-lab/).
 
+**Email:** [w.chen21@imperial.ac.uk](mailto:w.chen21@imperial.ac.uk)
+
 ---
 
 <h2 class="section-title">News</h2>
