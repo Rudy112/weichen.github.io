@@ -155,6 +155,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 <h2 class="section-title">News</h2>
 
 <div class="news-list">
+  <div class="news-item"><span class="news-date">[2025]</span> 🏆 Won the <strong>Amazon Robotics Award</strong>!</div>
   <div class="news-item"><span class="news-date">[2025]</span> Two papers accepted to <strong>IROS 2025</strong> (GraphGarment, Haptic-ACT)!</div>
   <div class="news-item"><span class="news-date">[2025]</span> One paper accepted to <strong>RA-L 2025</strong>!</div>
   <div class="news-item"><span class="news-date">[2025]</span> One paper accepted to <strong>CLAWAR 2025</strong>!</div>
@@ -162,6 +163,15 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
   <div class="news-item"><span class="news-date">[2024]</span> One paper accepted to <strong>ICMRE 2024</strong>!</div>
   <div class="news-item"><span class="news-date">[Oct 2023]</span> Presented at <strong>IROS 2023</strong> in Detroit!</div>
   <div class="news-item"><span class="news-date">[Jun 2023]</span> One paper accepted to <strong>IROS 2023</strong>!</div>
+</div>
+
+---
+
+<h2 class="section-title">Awards</h2>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  <p style="color: #666; font-size: 0.9em; margin-top: 8px;"><strong>Amazon Robotics Award</strong></p>
 </div>
 
 ---

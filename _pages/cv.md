@@ -110,6 +110,18 @@ redirect_from:
 </div>
 
 <div class="cv-section">
+<h2>Awards</h2>
+
+<div class="cv-item">
+  <div class="cv-year">2025</div>
+  <div class="cv-content">
+    <h3>Amazon Robotics Award</h3>
+  </div>
+</div>
+
+</div>
+
+<div class="cv-section">
 <h2>Publications</h2>
 
 <div class="pub-item">
