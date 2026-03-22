@@ -170,14 +170,14 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <h2 class="section-title">Awards</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" style="max-width: 350px; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    <p style="color: #666; font-size: 0.9em; margin-top: 8px;"><strong>Amazon Robotics Award</strong> (Mar 2026)</p>
+    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>Amazon Robotics Award</strong> (Mar 2026)</p>
   </div>
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" style="max-width: 350px; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    <p style="color: #666; font-size: 0.9em; margin-top: 8px;"><strong>ICRA 2023 Cloth Manipulation Challenge</strong> - Honorable Mention (Jun 2023)</p>
+    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>ICRA 2023 Cloth Challenge</strong> - Honorable Mention (Jun 2023)</p>
   </div>
 </div>
 
