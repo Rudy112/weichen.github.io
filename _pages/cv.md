@@ -113,9 +113,17 @@ redirect_from:
 <h2>Awards</h2>
 
 <div class="cv-item">
-  <div class="cv-year">2025</div>
+  <div class="cv-year">Mar 2026</div>
   <div class="cv-content">
     <h3>Amazon Robotics Award</h3>
+  </div>
+</div>
+
+<div class="cv-item">
+  <div class="cv-year">Jun 2023</div>
+  <div class="cv-content">
+    <h3>ICRA 2023 Cloth Manipulation Challenge - Honorable Mention</h3>
+    <div class="institution">IEEE, Team Leader</div>
   </div>
 </div>
 
