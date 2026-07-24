@@ -142,9 +142,9 @@ redirect_from:
 
 I received my PhD from the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)** in July 2026. My research focuses on:
 
-- **Robot Manipulation** & Perception for Grasping
-- **Learning‑based Control** for Deformable Objects
-- **Cloth/Garment Manipulation**
+- **Embodied AI** & Robot Learning
+- **Robot Manipulation** & Perception
+- **Deformable Object Manipulation**
 
 I develop data‑efficient methods that bridge laboratory algorithms to real‑world robot tasks. I am supervised by [Dr Petar Kormushev](http://www.imperial.ac.uk/robot-intelligence/) and [Dr Nicolas Rojas](https://www.imperial.ac.uk/reds-lab/).
 
