@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Chen / Homepage"
+title                    : "Wei Chen"
 title_separator          : "-"
 name                     : &name "Wei Chen"
 description              : &description "PhD in Robotics from Imperial College London. Embodied AI, robot manipulation, deformable object manipulation."

@@ -9,46 +9,66 @@ redirect_from:
 ---
 
 <style>
-/* Section styling */
+/* Section titles: short gradient accent bar */
 .section-title {
-  border-bottom: 2px solid #4a90d9;
-  padding-bottom: 8px;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  color: #333;
+  position: relative;
+  padding-bottom: 10px;
+  margin-top: 44px;
+  margin-bottom: 22px;
+  color: #1a1a2e;
+  letter-spacing: 0.3px;
+}
+.section-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 46px;
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #00509e, #4a90d9);
 }
 
-/* News styling */
+/* News */
 .news-list {
-  max-height: 200px;
+  max-height: 220px;
   overflow-y: auto;
-  padding: 10px;
-  background: #f9f9f9;
-  border-radius: 6px;
+  padding: 4px 10px;
+  border: 1px solid #ececec;
+  border-radius: 10px;
+  background: #fff;
 }
 .news-item {
-  margin-bottom: 8px;
-  font-size: 0.95em;
+  padding: 7px 2px;
+  font-size: 0.93em;
+  border-bottom: 1px dashed #eee;
+}
+.news-item:last-child {
+  border-bottom: none;
 }
 .news-date {
-  color: #4a90d9;
-  font-weight: bold;
-  margin-right: 10px;
+  display: inline-block;
+  min-width: 86px;
+  color: #00509e;
+  font-weight: 600;
+  font-size: 0.9em;
+  margin-right: 6px;
 }
 
 /* Project cards */
 .project-card {
   display: flex;
   flex-direction: row;
-  margin-bottom: 20px;
-  padding: 12px;
-  border: 1px solid #e1e1e1;
-  border-radius: 8px;
-  background: #fafafa;
-  transition: box-shadow 0.2s;
+  margin-bottom: 22px;
+  padding: 14px;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  background: #fff;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 .project-card:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0, 40, 90, 0.1);
 }
 .project-img {
   flex: 0 0 240px;
@@ -59,66 +79,82 @@ redirect_from:
   width: 100%;
   height: 140px;
   object-fit: cover;
-  border-radius: 6px;
+  border-radius: 8px;
 }
 .project-info {
   flex: 1;
 }
 .project-info h3 {
-  margin: 0 0 6px 0;
+  margin: 0 0 8px 0;
   font-size: 1em;
-  line-height: 1.3;
+  line-height: 1.35;
+  color: #1a1a2e;
 }
 .project-venue {
-  color: #e74c3c;
-  font-size: 0.85em;
-  font-weight: 500;
-  margin-bottom: 6px;
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: #eaf2fb;
+  color: #00509e;
+  font-size: 0.78em;
+  font-weight: 600;
+  margin-bottom: 8px;
 }
 .project-authors {
   font-size: 0.8em;
   color: #555;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .project-links a {
   display: inline-block;
-  margin-right: 8px;
-  padding: 3px 8px;
-  background: #4a90d9;
-  color: white !important;
-  border-radius: 4px;
+  margin: 0 6px 4px 0;
+  padding: 3px 14px;
+  border: 1px solid #00509e;
+  border-radius: 999px;
+  color: #00509e !important;
+  background: transparent;
   font-size: 0.8em;
+  font-weight: 500;
   text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
 }
 .project-links a:hover {
-  background: #357abd;
+  background: #00509e;
+  color: #fff !important;
 }
 
-/* Education/Experience */
-.exp-item {
+/* Awards */
+.award-row {
   display: flex;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
-  border-bottom: 1px dashed #ddd;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 20px;
 }
-.exp-item:last-child {
-  border-bottom: none;
+.award-card {
+  text-align: center;
+  padding: 10px 10px 4px 10px;
+  border: 1px solid #e8e8e8;
+  border-radius: 12px;
+  background: #fff;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
-.exp-year {
-  flex: 0 0 100px;
-  font-weight: bold;
-  color: #4a90d9;
-  font-size: 0.9em;
+.award-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0, 40, 90, 0.1);
 }
-.exp-content {
-  flex: 1;
+.award-card img {
+  width: 220px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
 }
-.exp-content strong {
-  color: #333;
-}
-.exp-content .subtitle {
+.award-card p {
   color: #666;
-  font-size: 0.9em;
+  font-size: 0.8em;
+  line-height: 1.4;
+  margin: 8px 0 6px 0;
+  max-width: 230px;
 }
 
 /* Responsive */
@@ -131,11 +167,8 @@ redirect_from:
     margin-right: 0;
     margin-bottom: 12px;
   }
-  .exp-item {
-    flex-direction: column;
-  }
-  .exp-year {
-    margin-bottom: 5px;
+  .project-img img {
+    height: auto;
   }
 }
 </style>
@@ -172,14 +205,14 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <h2 class="section-title">Awards</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" loading="lazy" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>Amazon Robotics Award</strong> (Mar 2026)</p>
+<div class="award-row">
+  <div class="award-card">
+    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" loading="lazy">
+    <p><strong>Amazon Robotics Award</strong><br>Mar 2026</p>
   </div>
-  <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" loading="lazy" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-    <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>ICRA 2023 Cloth Challenge</strong> - Honorable Mention (Jun 2023)</p>
+  <div class="award-card">
+    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" loading="lazy">
+    <p><strong>ICRA 2023 Cloth Manipulation Challenge</strong><br>Honorable Mention &middot; Jun 2023</p>
   </div>
 </div>
 
