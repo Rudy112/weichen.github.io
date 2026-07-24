@@ -174,11 +174,11 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <img src="{{ site.baseurl }}/images/amazon_award.jpg" alt="Amazon Robotics Award" loading="lazy" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>Amazon Robotics Award</strong> (Mar 2026)</p>
   </div>
   <div style="text-align: center;">
-    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <img src="{{ site.baseurl }}/images/IEEE-cloth-award.jpg" alt="ICRA 2023 Cloth Manipulation Challenge" loading="lazy" style="max-width: 200px; height: 150px; object-fit: cover; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
     <p style="color: #666; font-size: 0.8em; margin-top: 6px;"><strong>ICRA 2023 Cloth Challenge</strong> - Honorable Mention (Jun 2023)</p>
   </div>
 </div>
@@ -189,7 +189,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="{{ site.baseurl }}/images/real_predict_demo.gif" alt="GraphGarment">
+    <img src="{{ site.baseurl }}/images/real_predict_demo.gif" alt="GraphGarment" loading="lazy">
   </div>
   <div class="project-info">
     <h3>GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks</h3>
@@ -204,53 +204,7 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="{{ site.baseurl }}/images/gog_demo.gif" alt="G.O.G">
-  </div>
-  <div class="project-info">
-    <h3>G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation</h3>
-    <div class="project-venue">IEEE RA-L 2024</div>
-    <div class="project-authors">Dongmyoung Lee*, <strong>Wei Chen*</strong>, Xiaoshuai Chen, Nicolas Rojas</div>
-    <div class="project-links">
-      <a href="https://arxiv.org/pdf/2401.10702.pdf" target="_blank">Paper</a>
-      <a href="https://sites.google.com/view/gripperongripper" target="_blank">Website</a>
-    </div>
-  </div>
-</div>
-
-<div class="project-card">
-  <div class="project-img">
-    <img src="{{ site.baseurl }}/images/Trakdis.gif" alt="TraKDis">
-  </div>
-  <div class="project-info">
-    <h3>TraKDis: Transformer-based Knowledge Distillation for Visual Reinforcement Learning</h3>
-    <div class="project-venue">IEEE RA-L 2024</div>
-    <div class="project-authors"><strong>Wei Chen</strong>, Nicolas Rojas</div>
-    <div class="project-links">
-      <a href="https://arxiv.org/abs/2401.13362" target="_blank">Paper</a>
-      <a href="https://sites.google.com/view/trakdis" target="_blank">Website</a>
-    </div>
-  </div>
-</div>
-
-<div class="project-card">
-  <div class="project-img">
-    <img src="{{ site.baseurl }}/images/garment_hang.gif" alt="Garment Hanging">
-  </div>
-  <div class="project-info">
-    <h3>Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks</h3>
-    <div class="project-venue">IROS 2023</div>
-    <div class="project-authors"><strong>Wei Chen</strong>, Dongmyoung Lee, Digby Chappell, Nicolas Rojas</div>
-    <div class="project-links">
-      <a href="https://arxiv.org/pdf/2306.14553.pdf" target="_blank">Paper</a>
-      <a href="https://sites.google.com/view/garment-hanging" target="_blank">Website</a>
-      <a href="https://www.youtube.com/watch?v=fEmlbfU8yss" target="_blank">Video</a>
-    </div>
-  </div>
-</div>
-
-<div class="project-card">
-  <div class="project-img">
-    <img src="{{ site.baseurl }}/images/haptic_act.gif" alt="Haptic-ACT">
+    <img src="{{ site.baseurl }}/images/haptic_act.gif" alt="Haptic-ACT" loading="lazy">
   </div>
   <div class="project-info">
     <h3>Haptic-ACT: Bridging Human Intuition with Compliant Robotic Manipulation via Immersive VR</h3>
@@ -265,7 +219,51 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="{{ site.baseurl }}/images/ICMRE.jpg" alt="Synthetic Data">
+    <img src="{{ site.baseurl }}/images/therbligs_backbone.gif" alt="Therbligs" loading="lazy">
+  </div>
+  <div class="project-info">
+    <h3>A Backbone for Long-Horizon Robot Task Understanding</h3>
+    <div class="project-venue">IEEE RA-L 2025</div>
+    <div class="project-authors">Xiaoshuai Chen, <strong>Wei Chen</strong>, Dongmyoung Lee, Yukun Ge, Nicolas Rojas, Petar Kormushev</div>
+    <div class="project-links">
+      <a href="https://ieeexplore.ieee.org/document/10820869" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-img">
+    <img src="{{ site.baseurl }}/images/Trakdis.gif" alt="TraKDis" loading="lazy">
+  </div>
+  <div class="project-info">
+    <h3>TraKDis: Transformer-based Knowledge Distillation for Visual Reinforcement Learning</h3>
+    <div class="project-venue">IEEE RA-L 2024</div>
+    <div class="project-authors"><strong>Wei Chen</strong>, Nicolas Rojas</div>
+    <div class="project-links">
+      <a href="https://arxiv.org/abs/2401.13362" target="_blank">Paper</a>
+      <a href="https://sites.google.com/view/trakdis" target="_blank">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-img">
+    <img src="{{ site.baseurl }}/images/gog_demo.gif" alt="G.O.G" loading="lazy">
+  </div>
+  <div class="project-info">
+    <h3>G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation</h3>
+    <div class="project-venue">IEEE RA-L 2024</div>
+    <div class="project-authors">Dongmyoung Lee*, <strong>Wei Chen*</strong>, Xiaoshuai Chen, Nicolas Rojas (* equal contribution)</div>
+    <div class="project-links">
+      <a href="https://arxiv.org/pdf/2401.10702.pdf" target="_blank">Paper</a>
+      <a href="https://sites.google.com/view/gripperongripper" target="_blank">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-card">
+  <div class="project-img">
+    <img src="{{ site.baseurl }}/images/ICMRE.jpg" alt="Synthetic Data" loading="lazy">
   </div>
   <div class="project-info">
     <h3>Synthetic Data Enables Faster Annotation and Robust Segmentation for Multi-Object Grasping</h3>
@@ -279,14 +277,16 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 
 <div class="project-card">
   <div class="project-img">
-    <img src="{{ site.baseurl }}/images/therbligs_backbone.gif" alt="Therbligs">
+    <img src="{{ site.baseurl }}/images/garment_hang.gif" alt="Garment Hanging" loading="lazy">
   </div>
   <div class="project-info">
-    <h3>A Backbone for Long-Horizon Robot Task Understanding</h3>
-    <div class="project-venue">IEEE RA-L 2025</div>
-    <div class="project-authors">Xiaoshuai Chen, <strong>Wei Chen</strong>, Dongmyoung Lee, Yukun Ge, Nicolas Rojas, Petar Kormushev</div>
+    <h3>Learning to Grasp Clothing Structural Regions for Garment Manipulation Tasks</h3>
+    <div class="project-venue">IROS 2023</div>
+    <div class="project-authors"><strong>Wei Chen</strong>, Dongmyoung Lee, Digby Chappell, Nicolas Rojas</div>
     <div class="project-links">
-      <a href="https://ieeexplore.ieee.org/document/10820869" target="_blank">Paper</a>
+      <a href="https://arxiv.org/pdf/2306.14553.pdf" target="_blank">Paper</a>
+      <a href="https://sites.google.com/view/garment-hanging" target="_blank">Website</a>
+      <a href="https://www.youtube.com/watch?v=fEmlbfU8yss" target="_blank">Video</a>
     </div>
   </div>
 </div>

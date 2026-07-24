@@ -1,5 +1,5 @@
 ---
-title: " GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks"
+title: "GraphGarment: Learning Garment Dynamics for Bimanual Cloth Manipulation Tasks"
 collection: publications
 permalink: /publication/graphgarment
 excerpt: '**Wei Chen**, Kelin Li, Dongmyoung Lee, Xiaoshuai Chen, Rui Zong and Petar Kormushev'
@@ -20,6 +20,6 @@ We conducted four experiments using six types of garments to validate our approa
 In simulation experiments, GraphGarment achieves better garment state prediction performance, with a prediction error 0.46 cm lower than the best baseline. Our approach also demonstrates improved performance in the garment-hanging simulation experiment—with enhancements of 12\%, 24\%, and 10\%, respectively. Moreover, real-world robot experiments confirm the robustness of sim-to-real transfer, with an error increase of 0.17 cm compared to simulation results. Supplementary material is available at: \href{https://sites.google.com/view/graphgarment}{https://sites.google.com/view/graphgarment}.
 
 
-[Download paper here]([https://arxiv.org/pdf/2401.10702.pdf](https://arxiv.org/pdf/2503.05817)) | [Website]([https://sites.google.com/view/gripperongripper](https://sites.google.com/view/graphgarment))
+[Download paper here](https://arxiv.org/pdf/2503.05817) | [Website](https://sites.google.com/view/graphgarment)
 
 
