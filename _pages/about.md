@@ -140,7 +140,7 @@ redirect_from:
 }
 </style>
 
-I am a final‑year PhD candidate in the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)**. My research focuses on:
+I received my PhD from the **[Dyson School of Design Engineering](https://www.imperial.ac.uk/design-engineering/)** at **[Imperial College London](https://www.imperial.ac.uk)** in July 2026. My research focuses on:
 
 - **Robot Manipulation** & Perception for Grasping
 - **Learning‑based Control** for Deformable Objects
@@ -155,6 +155,8 @@ I develop data‑efficient methods that bridge laboratory algorithms to real‑w
 <h2 class="section-title">News</h2>
 
 <div class="news-list">
+  <div class="news-item"><span class="news-date">[Jul 2026]</span> 🎓 Received my <strong>PhD degree</strong> from Imperial College London!</div>
+  <div class="news-item"><span class="news-date">[May 2026]</span> 🎉 Successfully defended my <strong>PhD thesis</strong>!</div>
   <div class="news-item"><span class="news-date">[Mar 2026]</span> 🏆 Won the <strong>Amazon Robotics Award</strong>!</div>
   <div class="news-item"><span class="news-date">[2025]</span> Two papers accepted to <strong>IROS 2025</strong> (GraphGarment, Haptic-ACT)!</div>
   <div class="news-item"><span class="news-date">[2025]</span> One paper accepted to <strong>RA-L 2025</strong>!</div>

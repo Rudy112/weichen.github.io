@@ -77,11 +77,11 @@ redirect_from:
 <h2>Education</h2>
 
 <div class="cv-item">
-  <div class="cv-year">2021 - Present</div>
+  <div class="cv-year">2021 - 2026</div>
   <div class="cv-content">
     <h3>Ph.D. in Robotics</h3>
     <div class="institution">Imperial College London, UK</div>
-    <div class="description">Advisor: Dr. Petar Kormushev</div>
+    <div class="description">Advisor: Dr. Petar Kormushev<br>Defended: May 2026 | Graduated: July 2026</div>
   </div>
 </div>
 
